@@ -1,0 +1,5 @@
+#new-quote,
+#tweet-quote {
+  display: inline-block;
+  margin: 10px 5px 20px 5px;
+}
