@@ -3,5 +3,5 @@
 Quote machine project FreeCodeCamp was used... 
 ### HTML, JavaScript, CSS, Bootstrap
 
-
+<img src="qimg.png">
                            
